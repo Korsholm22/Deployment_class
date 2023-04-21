@@ -1,0 +1,30 @@
+if permission is denied;
+sudo chmod 700 mlapp.pem (mlapp.pem = key name)
+
+connection: ssh ubuntu@16.16.160.159 -i mlapp.pem
+
+sudo apt update = for updating packages after installing libaries
+
+sudo apt install python3.pip = installs python3 
+
+pip install ...
+
+
+ls = see all documents
+
+cd .. = go back
+
+
+ssh -NL 5002:localhost:5002 ubuntu@(server nummer) .i key.pem = connecting to the local host
+in another window
+
+sudo rm (name) = delete a layer (or document)
+
+how to run a layer = python3 "name"
+
+Docker an app in terminal:
+
+
+make new file: vim
+exit that file: shift + : and wq
+
