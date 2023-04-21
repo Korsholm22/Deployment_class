@@ -28,3 +28,5 @@ Docker an app in terminal:
 make new file: vim
 exit that file: shift + : and wq
 
+IF YOU STOP A DOCKER YOU WILL LOOSE ALL THE INFORMATION!
+
